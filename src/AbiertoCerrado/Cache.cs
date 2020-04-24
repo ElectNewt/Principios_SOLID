@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ResponsabilidadUnica
+namespace AbiertoCerrado
 {
     public class Cache
     {
